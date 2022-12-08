@@ -1,5 +1,5 @@
 ## Olá, me chamo Rafael 👋
-### Conheça-me acessando meu portfólio: https://leafcarvalho/github.io
+### Conheça-me
 
  <div>
   <a href="https://github.com/LeafCarvalho">
