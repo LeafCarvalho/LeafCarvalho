@@ -1,4 +1,6 @@
-### 👋
+## Olá, me chamo Rafael 👋
+### Conheça-me acessando meu portfólio: https://leafcarvalho/github.io
+
  <div>
   <a href="https://github.com/LeafCarvalho">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeafCarvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
