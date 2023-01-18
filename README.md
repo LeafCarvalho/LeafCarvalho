@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/LeafCarvalho">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeafCarvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeafCarvalho&layout=compact&langs_count=9&theme=synthwave"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeafCarvalho&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
 </div>
   <div style="display: inline_block"><br>
