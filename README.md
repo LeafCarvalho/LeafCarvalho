@@ -1,19 +1,5 @@
 ## Olá, me chamo Rafael 👋
 ### Conheça-me: https://leafcarvalho.github.io
-
- <div>
-  <a href="https://github.com/LeafCarvalho">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeafCarvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeafCarvalho&layout=compact&langs_count=6&theme=synthwave"/>
-</div>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Logo do React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Logo do NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Logo do TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- <img align="center" alt="Logo do Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
   
   ##
   
