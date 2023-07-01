@@ -50,7 +50,7 @@
 
   
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafaelcarvalhosl" target="_blank">
