@@ -1,7 +1,7 @@
 ## Olá, me chamo Rafael 👋
 
   
-- 🔥 Desenvolvedor Front-End
+- 🔥 Desenvolvedor de Software
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
