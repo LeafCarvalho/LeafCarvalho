@@ -3,7 +3,7 @@
   
 - 🔥 Desenvolvedor de Software
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas e graduado em Defesa Cibernética
 
 
 - 🦉 Faço postagens no [Instagram](https://www.instagram.com/dev_filosofo/) sobre a área da programação
