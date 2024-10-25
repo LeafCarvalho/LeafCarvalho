@@ -10,10 +10,18 @@ PHP </br>
 Wordpress </br>
 e mais uma inifinidade de outras ferramentas, de acordo com o que é necessário para se resolver cada tarefa.
 
+## Algumas inspirações próprias
+
+<p align="left" style="background:yellow; font-size:18px;">
+<a href="https://codepen.io/leafcarvalho/collections/public" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen&logoWidth=30" alt="codepen"/>
+</a>
+</p>
+
 ## Contato
 
-<p align="left" style="background:yellow">
+<p align="left" style="background:yellow; font-size:18px;">
 <a href="https://www.linkedin.com/in/rafaelcarvalhosl" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rafaelcarvalhosl-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-rafaelcarvalhosl-05122A?style=flat&logo=linkedin&logoWidth=30" alt="linkedin"/>
 </a>
 </p>
