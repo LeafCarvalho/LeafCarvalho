@@ -3,7 +3,7 @@ Atuante em TI desde 2020, acumulando conhecimentos na área de infraestrutura e 
 Veja alguns de meus projetos no meu **[portfólio](https://leafcarvalho.github.io)**.
 
 ## Linguagens e Ferramentas
-JavaScript (React, Next, Node) </br>
+JavaScript (React, Next, Node) ⭐ </br>
 Java (Spring Boot) </br>
 SQL (Oracle, Mysql, Sql Server) </br>
 PHP </br>
