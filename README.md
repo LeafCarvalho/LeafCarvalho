@@ -10,7 +10,7 @@ PHP </br>
 Wordpress </br>
 e mais uma inifinidade de outras ferramentas, de acordo com o que é necessário para se resolver cada tarefa.
 
-## Algumas inspirações próprias
+## Inspirações e ideias
 
 <p align="left" style="background:yellow; font-size:18px;">
 <a href="https://codepen.io/leafcarvalho/collections/public" target="_blank">
