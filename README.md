@@ -1,8 +1,7 @@
 ## Me chamo Rafael 👋
-Atuante em TI desde 2020, acumulando conhecimentos na área de infraestrutura e implantação de sistemas, bem como sendo altamente qualificado como desenvolvedor.
-Veja alguns de meus projetos no meu **[portfólio](https://leafcarvalho.github.io)**.
+Na TI desde 2020 e desenvolvedor há mais de 2 anos. Sei encontrar rapidamente a ferramenta ideal para cada desafio — às vezes basta uma pesquisa estratégica e pronto. Me chama que é sucesso.
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas do meu dia a dia
 JavaScript (React, Next, Node) ⭐ </br>
 Java (Spring Boot) </br>
 SQL (Oracle, Mysql, Sql Server) </br>
